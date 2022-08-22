@@ -1,4 +1,6 @@
-# vite-step01
+# vite-step01 基本
+
+[参考資料](https://ics.media/entry/210708/#contents-anchor-basic)
 
 <details>
 <summary><h2>問題点と修正記録</h2></summary>
